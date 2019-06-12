@@ -169,4 +169,3 @@ DJ playlist my playlist remove 1 - Removes the first song/video from "my playlis
 <td style="text-align:center">Delete a playlist</td>
 </tr>
 </table>
-<iframe src="https://discordapp.com/widget?id=550740225106640926&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
